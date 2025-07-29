@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">alarm app</string>
+    <string name="add_alarm_button_description">Botón para agregar una nueva alarma</string>
 </resources>
