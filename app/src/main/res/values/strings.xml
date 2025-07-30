@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">alarm app</string>
     <string name="add_alarm_button_description">Botón para agregar una nueva alarma</string>
+    <string name="pantalla_para_anadir_alarma">Pantalla para Anadir Alarma</string>
+    <string name="Timer">12:00</string>
+    <string name="save">Save</string>
 </resources>
